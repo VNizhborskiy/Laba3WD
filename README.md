@@ -1,1 +1,9 @@
-# Laba3WD
+https://vnizhborskiy.github.io/Laba3WD/Task(1-3) 
+https://vnizhborskiy.github.io/Laba3WD/Task(4) 
+https://vnizhborskiy.github.io/Laba3WD/Task(5) 
+https://vnizhborskiy.github.io/Laba3WD/Task(6) 
+https://vnizhborskiy.github.io/Laba3WD/Task(7) 
+https://vnizhborskiy.github.io/Laba3WD/Task(8) 
+https://vnizhborskiy.github.io/Laba3WD/Task(9) 
+https://vnizhborskiy.github.io/Laba3WD/Task(10) 
+https://vnizhborskiy.github.io/Laba3WD/Task(11) 
