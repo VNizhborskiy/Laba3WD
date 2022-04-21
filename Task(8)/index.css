@@ -1,0 +1,18 @@
+.card{
+    margin: 25px;
+    display:flex;
+    box-shadow: 5px 5px 5px #dc1414;
+    width: 650px;
+}
+.content{
+    padding: 7px;
+}
+.card flex-start-aligned{
+    align-self:auto;
+    width: 650px;
+}
+img{
+    display: block; 
+    max-width: 100%;
+    height: auto;
+}
